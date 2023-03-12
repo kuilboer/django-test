@@ -3,4 +3,5 @@ bin/
 lib/
 pyvenv.cfg
 
-#
+# django webserver cache
+__pycache__/
